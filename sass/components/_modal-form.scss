@@ -115,7 +115,7 @@
     .modal-checkbox__input:checked + & {
         border-color: transparent;
         background-color: var(--accent-color);
-        background-image: url(../../images/icon-checked.svg);
+        background-image: url(../images/icon-checked.svg);
         background-size: cover;
         background-origin: border-box;
     }

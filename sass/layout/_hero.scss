@@ -6,7 +6,7 @@
         min-height: 400px;
         max-width: 480px;
         background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4),
-                rgba(47, 48, 58, 0.4)), url("/images/header/header-mobile.jpg");
+                rgba(47, 48, 58, 0.4)), url("../images/header/header-mobile.jpg");
         background-size: cover;
         background-position: 50% 50%;
         background-color: #C4C4C4;
@@ -17,7 +17,7 @@
     screen and (min-resolution: 2dppx) and (min-width: 480px) {
         .hero {
             background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4),
-                    rgba(47, 48, 58, 0.4)), url('/images/header/header-mobile@2x.jpg');
+                    rgba(47, 48, 58, 0.4)), url('../images/header/header-mobile@2x.jpg');
         }
     }
 
@@ -73,7 +73,7 @@
         background-image: linear-gradient(to right,
                 rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url("/images/header/header-tablet.jpg");
+            url("../images/header/header-tablet.jpg");
         background-size: cover;
         background-position: 50% 50%;
         background-color: #C4C4C4;
@@ -87,7 +87,7 @@
             background-image: linear-gradient(to right,
                     rgba(47, 48, 58, 0.4),
                     rgba(47, 48, 58, 0.4)),
-                url("/images/header/header-tablet@2x.jpg");
+                url("../images/header/header-tablet@2x.jpg");
         }
     }
 
@@ -148,7 +148,7 @@
         background-image: linear-gradient(to right,
                 rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url("/images/header/header-desktop.jpg");
+            url("../images/header/header-desktop.jpg");
         background-size: cover;
         background-position: 50% 50%;
         background-color: #C4C4C4;
@@ -163,7 +163,7 @@
             background-image: linear-gradient(to right,
                     rgba(47, 48, 58, 0.4),
                     rgba(47, 48, 58, 0.4)),
-                url("/images/header/header-desktop@2x.jpg");
+                url("../images/header/header-desktop@2x.jpg");
         }
     }
 
